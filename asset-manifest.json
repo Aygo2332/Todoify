@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todoify/static/css/main.eb0f37d6.css",
+    "main.js": "/Todoify/static/js/main.c9671521.js",
+    "index.html": "/Todoify/index.html",
+    "main.eb0f37d6.css.map": "/Todoify/static/css/main.eb0f37d6.css.map",
+    "main.c9671521.js.map": "/Todoify/static/js/main.c9671521.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0f37d6.css",
+    "static/js/main.c9671521.js"
+  ]
+}
